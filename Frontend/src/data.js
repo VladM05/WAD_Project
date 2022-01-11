@@ -1,0 +1,34 @@
+export const products = [
+    {
+        id:1,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-margherita-1-300x300.png"
+    },
+    {
+        id:2,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-quattro-formaggi-300x300.png"
+    },
+    {
+        id:3,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-prosciutto-funghi-300x300.png"
+    },
+    {
+        id:4,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-prosciutto-crudo-300x300.png"
+    },
+    {
+        id:5,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-tonno-300x300.png"
+    },
+    {
+        id:6,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-capriciosa-300x300.png"
+    },
+    {
+        id:7,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-quattro-stagioni-2-300x300.png"
+    },
+    {
+        id:8,
+        img:"https://www.pizzaland.com.ro/wp-content/uploads/2021/01/italiana-diavola-salam-dulce-1-300x300.png"
+    }
+]

@@ -1,0 +1,26 @@
+.hero-section{
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.hero-section .logo{
+    float: right;
+    padding-top: 15px;
+    padding-right: 10px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.hero-section .sub-heading{
+    padding-top: 250px;
+    padding-right: 15px;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}

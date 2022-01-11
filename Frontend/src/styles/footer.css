@@ -1,0 +1,36 @@
+footer{
+    position: relative;
+    width: 100%;
+    padding: 20px 10vw;
+    padding-bottom: 20px;
+    background: #383838;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.logo{
+    height: 128px;
+}
+
+.info{
+    color: #fff;
+    margin: 10px 0;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+.footer-social-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-link{
+    color: #fff;
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+
+.social-link:nth-child(1){
+    margin-left: 10px;
+}
